@@ -31,3 +31,8 @@ all_enemy[1]['color'] = 'yellow'
 for somebody in all_enemy:
 #    print(somebody['color'],somebody['health'])     # вывод нескольких ИТЕМОВ словаря
     print(somebody)     # вывод всех ИТЕМОВ словаря
+
+print( 6 / 4)
+print( 6 // 4)
+print( 6 / -4)
+print( 6 // -4)
