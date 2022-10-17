@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<records>
+	<record>
+		<name>Eric Copeland</name>
+		<email>libero.proin@yahoo.com</email>
+		<region>Cajamarca</region>
+		<phone>1-607-537-1677</phone>
+	</record>
+	<record>
+		<name>Roanna Moreno</name>
+		<email>arcu.vestibulum.ut@aol.com</email>
+		<region>Agder</region>
+		<phone>(365) 238-5225</phone>
+	</record>
+	<record>
+		<name>Addison Herring</name>
+		<email>est.congue@google.net</email>
+		<region>Connecticut</region>
+		<phone>(402) 732-3112</phone>
+	</record>
+	<record>
+		<name>Nelle Barnes</name>
+		<email>suspendisse.non@yahoo.net</email>
+		<region>Guerrero</region>
+		<phone>1-764-637-5369</phone>
+	</record>
+	<record>
+		<name>Ross Cole</name>
+		<email>gravida.mauris@outlook.edu</email>
+		<region>Northwest Territories</region>
+		<phone>1-326-875-4213</phone>
+	</record>
+	<record>
+		<name>Kim Shaw</name>
+		<email>vulputate.velit.eu@outlook.ca</email>
+		<phone>(444) 938-7228</phone>
+		<country>Ukraine</country>
+		<region>East Region</region>
+	</record>
+	<record>
+		<name>Kasper Cameron</name>
+		<email>fermentum.arcu@outlook.net</email>
+		<phone>1-650-160-4058</phone>
+		<country>Canada</country>
+		<region>Ternopil oblast</region>
+	</record>
+	<record>
+		<name>Cara Sherman</name>
+		<email>mollis@protonmail.edu</email>
+		<phone>1-650-732-4114</phone>
+		<country>Vietnam</country>
+		<region>Dolnośląskie</region>
+	</record>
+	<record>
+		<name>Savannah Gross</name>
+		<email>erat@google.org</email>
+		<phone>(493) 553-1892</phone>
+		<country>Turkey</country>
+		<region>North Kalimantan</region>
+	</record>
+	<record>
+		<name>Sydney Mcdaniel</name>
+		<email>est.mauris.eu@outlook.com</email>
+		<phone>1-646-407-7661</phone>
+		<country>Sweden</country>
+		<region>Chihuahua</region>
+	</record>
+</records>
+
